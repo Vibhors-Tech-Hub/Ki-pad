@@ -1630,7 +1630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RP2040-ZERO:MODULE_RP2040-ZERO"
+		(property "Footprint" "Macropad:RP2040-ZERO"
 			(at 148.59 101.6 0)
 			(hide yes)
 			(show_name no)
