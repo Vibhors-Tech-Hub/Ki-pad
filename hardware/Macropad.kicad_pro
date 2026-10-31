@@ -564,9 +564,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3D/Macropad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
