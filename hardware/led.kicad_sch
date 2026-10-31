@@ -1687,7 +1687,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 109.22) (xy 233.68 109.22)
+			(xy 232.41 109.22) (xy 233.68 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1835,16 +1835,6 @@
 		)
 		(uuid "fe65a346-72cc-4f57-8586-16cb468bf83d")
 	)
-	(label "MCU_LED"
-		(at 224.79 109.22 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "686aeb79-eb09-4b7b-928b-f368f38b712d")
-	)
 	(label "LED"
 		(at 29.21 82.55 0)
 		(effects
@@ -1864,6 +1854,30 @@
 			(justify right bottom)
 		)
 		(uuid "f3820f20-8e4f-4ade-921b-4f50862b79c0")
+	)
+	(global_label "MCU_LED"
+		(shape input)
+		(at 232.41 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7c060e20-7acc-4b25-b117-0b4a8e7dbf79")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.9582 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Macropad:74AHCT1G125")
