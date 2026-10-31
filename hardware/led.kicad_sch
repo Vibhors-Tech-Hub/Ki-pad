@@ -1035,6 +1035,10 @@
 		(color 0 0 0 0)
 		(uuid "f21b7b9e-f038-449e-9e08-938c372d8cb2")
 	)
+	(no_connect
+		(at 195.58 128.27)
+		(uuid "ee60dbfc-9429-4919-afa8-1e4ab75568c4")
+	)
 	(wire
 		(pts
 			(xy 100.33 68.58) (xy 100.33 69.85)
@@ -2079,7 +2083,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 136.8552 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -2395,7 +2399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 45.4152 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -2477,7 +2481,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 249.8852 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -2803,7 +2807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 44.1452 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3451,7 +3455,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 72.0852 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3689,7 +3693,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 100.0252 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3927,7 +3931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 192.7352 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -4331,7 +4335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 73.3552 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4657,7 +4661,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 138.1252 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5061,7 +5065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 166.0652 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5299,7 +5303,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 194.0052 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5459,7 +5463,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 164.7952 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5951,7 +5955,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Macropad:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Macropad:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 101.2952 68.58 0)
 			(hide yes)
 			(show_name no)
