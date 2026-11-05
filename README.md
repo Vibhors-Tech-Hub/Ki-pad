@@ -16,7 +16,7 @@ As I said, to keep things simple, I didn't add a OLED, though it could be used f
 
 # Enclosure
 
-For this revision, I didn't design an enclosure. I didn't think it was absolutely required, as I was just making it to make my daily workflow easier, and while I've designed a LOT of PCBs, I'm a newbie to 3D CAD designing. But I could aways sesign one with MDF if I need it when I get the PCB in hand; whihcb is exactly why I added 4 M2.5 mounting holes.
+For this revision, I didn't design an enclosure. I didn't think it was absolutely required, as I was just making it to make my daily workflow easier, and while I've designed a LOT of PCBs, I'm a newbie to 3D CAD designing. But I could aways design one with MDF if I need it when I get the PCB in hand; whihcb is exactly why I added 4 M2.5 mounting holes.
 
 # Firmware
 
